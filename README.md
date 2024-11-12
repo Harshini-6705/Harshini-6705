@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshini V M</h1>
-<h3 align="center">A student with passion for data science</h3>
+<h3 align="center">Data Science Enthusiast || Passionate about Turning Data into Actionable Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshini-6705&label=Profile%20views&color=0e75b6&style=flat" alt="harshini-6705" /> </p>
 
